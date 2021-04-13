@@ -4,6 +4,7 @@ metadata:
   name: test-backstageio
   annotations:
     github.com/project-slug: binc75/test-backstageio
+    backstage.io/techdocs-ref: binc75/test-backstageio/docs
 spec:
   type: other
   lifecycle: unknown

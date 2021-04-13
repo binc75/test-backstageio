@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstageio
+  annotations:
+    github.com/project-slug: binc75/test-backstageio
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage

@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: binc75/test-backstageio
     backstage.io/techdocs-ref: url:https://github.com/binc75/test-backstageio/tree/main/docs
 spec:
-  type: other
+  type: website
   lifecycle: unknown
   owner: guest

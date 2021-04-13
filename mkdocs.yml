@@ -1,0 +1,5 @@
+site_name: 'test-Backstage'
+site_description: 'Main documentation for REPO'
+  
+plugins:
+  - techdocs-core 

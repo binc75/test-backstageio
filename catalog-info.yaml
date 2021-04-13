@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: test-backstageio
   links:
-  - url: https://dashboard.example.com
-    title: My Dashboard
-    icon: dashboard
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
   annotations:
     github.com/project-slug: binc75/test-backstageio
     backstage.io/techdocs-ref: url:https://github.com/binc75/test-backstageio/tree/main/docs
